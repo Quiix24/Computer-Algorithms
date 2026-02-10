@@ -118,7 +118,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Ahmed Mohamed**
 - GitHub: [@Quiix24](https://github.com/Quiix24)
-- LinkedIn: [Ahmed Mohamed](www.linkedin.com/in/ahmed-said-youssif)
+- LinkedIn: [Ahmed Mohamed](https://www.linkedin.com/in/ahmed-said-youssif)
 
 ---
 
