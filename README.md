@@ -116,9 +116,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Ahmed Mohamed**
+- GitHub: [@Quiix24](https://github.com/Quiix24)
+- LinkedIn: [Ahmed Mohamed](www.linkedin.com/in/ahmed-said-youssif)
 
 ---
 
